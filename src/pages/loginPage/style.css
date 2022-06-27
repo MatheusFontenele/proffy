@@ -1,0 +1,132 @@
+
+#page-landing{
+    display: flex;
+    flex-direction: row;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo-landing{
+    background: #8257E5;
+
+    width: 50vw;
+    height: 100vh;
+
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+}
+
+.logo{
+    position: absolute;
+}
+
+.login-landing{
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login-section{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: #333;
+}
+
+.form-login{
+    display: flex;
+    flex-direction: column;
+
+    margin: 24px 0;
+}
+
+.form-login input{
+    width: 352px;
+    height: 72px;
+
+    border: 1px solid #E6E6F0;
+
+    padding: 24px;
+}
+
+.form-login input[type=email]{
+    border-radius: 8px 8px 0px 0px;
+}
+.form-login input[type=password]{
+    border-radius: 0px 0px 8px 8px;
+}
+
+.especial-field{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 40px;
+}
+
+.remember{
+    display: flex;
+    align-items: center;
+}
+
+.remember input[type=checkbox]{
+    margin-right: 16px;
+
+    width: 24px;
+    height: 24px;
+
+    border-radius: 8px;
+
+}
+.remember input:checked{
+    background: #04D361;
+}
+
+
+button{
+    width: 352px;
+    height: 56px;
+    border: none;
+
+    background: #DCDCE5;
+    border-radius: 8px;
+
+    transition: all .3s ease;
+
+}
+button:hover{
+    color: #ffffff;
+    background: #04D361;
+}
+
+.create-account{
+    width: 352px;
+    height: 52px;
+
+    display: flex;
+    justify-content: space-between;
+
+    bottom: 0;
+
+}
+
+.create-account span:first-child{
+    width: 150px;
+}
