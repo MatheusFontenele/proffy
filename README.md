@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img alt="Letmeask" src=".github/LetmeaskCover.png" width="750px">
+   <img alt="Proffy" src=".github/Capa.png" width="750px">
 </p>
 
 <br>
@@ -15,7 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Tailwindcss](https://tailwindcss.com/)
 
 
 ## 🚀 Como executar
@@ -23,8 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/MatheusFontenele/letMeAsk
-$ cd letmeask
+$ git clone https://github.com/MatheusFontenele/proffy
+$ cd proffy-web
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -41,7 +40,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+Proffy é uma plataforma de estudos online, onde professores se disponiblizam informando valores e horarios disponiveis, e os alunos entram em contato com os mesmos. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
@@ -49,26 +48,40 @@ Este é um projeto desenvolvido durante a **[Next Level Week Together](https://n
 
 ### Login page
 <p align="center">
-  <img alt="Letmeask home" src=".github/loginpage.png" width="750px">
+  <img alt=" proffy home" src=".github/loginpage.png" width="750px">
+</p>
+
+### Login register page
+<p align="center">
+  <img alt=" proffy home" src=".github/registerLogin.png" width="750px">
+</p>
+
+### Recover password
+<p align="center">
+  <img alt=" proffy home" src=".github/recoverPassword.png" width="750px">
 </p>
 
 ### Home page
 <p align="center">
-  <img alt="Letmeask home" src=".github/home.png" width="750px">
+  <img alt=" proffy home" src=".github/home.png" width="750px">
 </p>
 
+### Teacher page
 <p align="center">
-  <img alt="Letmeask home" src=".github/homewithquestion.png" width="750px">
+  <img alt=" proffy home" src=".github/teacherpage.png" width="750px">
 </p>
 
-### Home admin page
+### Register teacher page
 <p align="center">
-  <img alt="Letmeask home" src=".github/homeadmin.png" width="750px">
+  <img alt=" proffy home" src=".github/registerTeacher.png" width="750px">
 </p>
+
+
+
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
+- [Layout Web](https://www.figma.com/file/8d8BPhz2jwyFIfFvcVtiJe/Proffy-Web-2.0?node-id=2%3A7) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
